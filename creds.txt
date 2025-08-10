@@ -1,2 +1,0 @@
-username=000
-pass= 111
