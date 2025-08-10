@@ -3,3 +3,4 @@ input =""
 add values
 
 store in database
+from new
